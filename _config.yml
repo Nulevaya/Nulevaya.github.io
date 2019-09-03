@@ -1,61 +1,72 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.png
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Анастасия Скрипникова
+title: Junior Ruby on Rails Developer
+email: skripnikovanastia@gmail.com
+phone: +7(921)100-77-28
+#website: 
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+github_username:  nulevaya
+vk_username: skr.nastia
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+about_title: Обо мне
+about_profile_image: images/profile.jpg
+about_content: | 
+  Увлекаюсь IT и программированием, имею представление, какового это - много учиться и работать, чтобы достичь результата. 
+  Не боюсь трудностей и готова к новому опыту.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  С чем работала:
+    - Unix(MacOS)
+    - Git
+    - Ruby
+    - Rails
+    - Sinatra
+    - Bootstrap
+    - SQLite3/PostgreSQL
+    - Jira/Startrek
+
+  С чем знакома: 
+    - HTML, CSS, Javascript
+    - Docker
+    - C/C++
+    - C#
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Чему обучалась
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Опыт
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Образование
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+more_title: Немного больше обо мне
+more_content: |
+  Еще со школы я представляла программирование как самую потрясающую в мире работу. Что может быть лучше, чем заниматься
+  любимым делом, непрерывно познавать что-то новое и интересное, ещё и получать за это деньги?<br>
+  <br>
+  Прошла объемный курс по Ruby on Rails, сделала несколько учебных проектов (Ruby on Sinatra + Bootstrap, Ruby on Rails,
+  Ruby on Rails + Bootstrap), что открыло для меня большой и интересный мир бэкенда. Закончила курс по SQL запросам, 
+  не обошла стороной курс по верстке, чтобы иметь всестороннее представление о мире web-программирования.<br>
+  Устроилась тестировщиком в Яндекс, чтобы на собственном опыте понять принципы тестирования и иметь коммерческий опыт работы с 
+  большим коллективом в серьезной компании. <br>
+  Благодаря хорошим людям, что встретились мне на жизненном пути, пусть неофициально, но решала задачи на 
+  большом действующем проекте, что дало мне опыт работы в продакшене и представление о взаимодействии с большой 
+  командной разработчиков.<br>
+  <br>
+  И вот сейчас, в 21 год, я понимаю, что готова пойти навстречу новому интересному опыту и 
+  начать серьезно развиваться как программист. Я не хочу стоять на месте, я хочу двигаться вперед к заветной мечте через 
+  любые трудности.<br>
+  <br>
+  Спасибо за внимание :)
 
 # Footer
 footer_show_references: true
-
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass

@@ -1,9 +1,19 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Ruby on Rails
+  link: http://rubyschool.us/
+  github: https://github.com/krdprog/rubyschool-notes
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Ruby, Rails, Sinatra, Bootstrap
+
+- layout: top-middle
+  name: SQL и получение данных
+  link: https://netology.ru/
+  quote: >
+    PostgreSQL, Docker, Kitematic, DBeaver
+
+- layout: top-middle
+  name: HTML-верстка
+  link: https://netology.ru/
+  quote: >
+    HTML, CSS

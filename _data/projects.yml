@@ -1,19 +1,26 @@
 # Project template
+
+- layout: top-middle
+  name: Обучение от Яндекса при приеме на работу
+  link: http://wiki.yandex.ru
+  quote: >
+    Основы тестирования, написание задач/заведение тикетов/описывание багов, работа с консолью разработчика
+
 - layout: top-middle
   name: Ruby on Rails
-  link: http://rubyschool.us/
-  github: https://github.com/krdprog/rubyschool-notes
+  link: http://rubyschool.us
+  github: krdprog/rubyschool-notes
   quote: >
-    Ruby, Rails, Sinatra, Bootstrap
+    Ruby (Rails, Sinatra + Bootstrap)
 
 - layout: top-middle
   name: SQL и получение данных
-  link: https://netology.ru/
+  link: https://netology.ru
   quote: >
     PostgreSQL, Docker, Kitematic, DBeaver
 
 - layout: top-middle
   name: HTML-верстка
-  link: https://netology.ru/
+  link: https://netology.ru
   quote: >
     HTML, CSS

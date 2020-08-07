@@ -3,7 +3,7 @@ favicon: images/favicon.png
 
 # Personal info
 name: Анастасия Скрипникова
-title: Junior QA Engineer
+title: Junior Develover
 email: skripnikovanastia@gmail.com
 phone: +7(921)100-77-28
 #website: 
@@ -21,12 +21,9 @@ about_content: |
   Не боюсь трудностей и готова к новому опыту.
 
   Навыки и инструменты:
-    - Ручное тестирование
-    - Создание баг-репортов
-    - Написание тест-кейсов
     - Ruby (Rails, Sinatra + Bootstrap, Hanami)
     - PostgreSQL/SQLite3
-    - HTML, CSS, Javascript
+    - HTML, CSS
     - Unix (MacOS)
     - Git
     - Jira/Яндекс.Трекер
@@ -34,7 +31,7 @@ about_content: |
     - rspec
     - Charles
     - Postman
-    - Docker
+    - Ручное тестирование
 
 # Projects Section
 projects_title: Чему обучалась

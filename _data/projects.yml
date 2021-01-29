@@ -7,13 +7,6 @@
     Основы тестирования, написание задач/заведение тикетов/описывание багов, работа с консолью разработчика
 
 - layout: top-middle
-  name: Ruby on Rails
-  link: http://rubyschool.us
-  github: krdprog/rubyschool-notes
-  quote: >
-    Ruby (Rails, Sinatra + Bootstrap)
-
-- layout: top-middle
   name: SQL и получение данных
   link: https://netology.ru
   quote: >
@@ -23,4 +16,11 @@
   name: HTML-верстка
   link: https://netology.ru
   quote: >
-    HTML, CSS
+    HTML, CSS, JavaScript
+
+- layout: top-middle
+  name: Ruby on Rails
+  link: http://rubyschool.us
+  github: krdprog/rubyschool-notes
+  quote: >
+    Ruby (Rails, Sinatra + Bootstrap)

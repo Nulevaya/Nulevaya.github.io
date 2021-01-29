@@ -3,13 +3,12 @@ favicon: images/favicon.png
 
 # Personal info
 name: Анастасия Скрипникова
-title: Junior Develover
+title: Junior QA Engineer
 email: skripnikovanastia@gmail.com
 phone: +7(921)100-77-28
 #website: 
 
 # Social links
-github_username:  nulevaya
 vk_username: skr.nastia
 telegram_username: nulevaya
 
@@ -21,17 +20,17 @@ about_content: |
   Не боюсь трудностей и готова к новому опыту.
 
   Навыки и инструменты:
-    - Ruby (Rails, Sinatra + Bootstrap, Hanami)
+    - Ручное тестирование
     - PostgreSQL/SQLite3
-    - HTML, CSS
-    - Unix (MacOS)
+    - HTML, CSS, JavaScript
     - Git
     - Jira/Яндекс.Трекер
-    - Browser devtools
     - rspec
     - Charles
     - Postman
-    - Ручное тестирование
+    - Browser devtools
+    - Unix (MacOS)
+    - Ruby (Rails, Sinatra + Bootstrap, Hanami)
 
 # Projects Section
 projects_title: Чему обучалась
@@ -45,8 +44,8 @@ education_title: Образование
 # More Section
 more_title: Немного больше обо мне
 more_content: |
-  Люблю силовой тренинг, видеоигры и кататься на велосипеде, но также весь выходной день могу провести,
-  делая себе маникюр под фильмы и сериальчики. <br>
+  Считаю своими плюсами упорство и усидчивость. Увлечениям, изучению новых навыков и работе 
+  посвящаю максимум своего времени, быстро втягиваясь в новую для меня сферу. <br>
 
 # Footer
 footer_show_references: true
